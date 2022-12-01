@@ -1,0 +1,9 @@
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.Form1.resources
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.Properties.Resources.resources
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.exe.config
+C:\Users\Win10\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.exe
+C:\Users\Win10\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.pdb
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.exe
+C:\Users\Win10\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.pdb
